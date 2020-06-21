@@ -1,0 +1,4 @@
+Hadamard:  0
+CNOT:  1
+CNOT2:  2
+CNOT3:  3
